@@ -53,6 +53,9 @@
 
 </div>
 
+<div align=center>
+    <img src="https://raw.githubusercontent.com/tello24/tello24/output/snake.svg" alt="Snake animation" />
+  </div>
 <div>
   <img src="https://media.discordapp.net/attachments/1168202173633531944/1405289232959934484/GIF-2025-08-13-17-36-53.gif" width="200"/>
 </div>

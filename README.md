@@ -31,9 +31,15 @@
 </div>
 
 ---
+<h2 align="center">Acesse meu Discord!</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/renan-schiavotello-7495b72b6/">
+  <a href="https://discord.com/users/502678474180395013">
     <img src="https://media.discordapp.net/attachments/1168202173633531944/1405289232959934484/GIF-2025-08-13-17-36-53.gif?ex=689e4916&is=689cf796&hm=d51bdf5b1ad815ba3a31ae3f509e6a63f92cd7b2e6bbbb96ed61ad9fe18ac10f&=" width="200" height="200" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://discord.com/users/502678474180395013">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
 
@@ -67,5 +73,7 @@
 </p>
 
 ---
+![Aura](https://img.shields.io/badge/Red%20Hat-EE0000.svg?style=for-the-badge&logo=Red-Hat&logoColor=white)
 
-🔥🔥🔥 *"Farmador de Aura profissional!"*
+🔥🔥🔥 *"Farmador de Aura profissional!"* 
+

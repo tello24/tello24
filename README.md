@@ -1,4 +1,9 @@
-<h1 align="center">👋 Oii, eu sou o Renan Schiavotello</h1>
+<!-- Título animado -->
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lato&weight=800&size=34&pause=1000&color=5809B8&background=E4E0FF00&center=true&vCenter=true&width=435&lines=Oii%2C+eu+sou+o+Renan%F0%9F%91%8B+" alt="Typing SVG" /></a>
+</p>
+
+
 <p align="center">
   💻 Estudante de Ciência da Computação no Instituto Mauá de Tecnologia  
 </p>
@@ -79,4 +84,3 @@
 ![Aura](https://img.shields.io/badge/Red%20Hat-EE0000.svg?style=for-the-badge&logo=Red-Hat&logoColor=white)
 
 🔥🔥🔥 *"Farmador de Aura profissional!"* 
-

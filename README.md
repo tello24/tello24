@@ -66,7 +66,10 @@
 </div>
 
 </div>
-
+## Trophies
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=pcavalheiroo&theme=onestar&no-frame=true&margin-w=10" />
+</p>
 ---
 
 ## 🌎 Onde me encontrar

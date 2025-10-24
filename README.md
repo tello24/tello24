@@ -56,6 +56,11 @@
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=tello24&show_icons=true&theme=radical)  
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=tello24&layout=compact&theme=radical)
 
+## Trophies
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=pcavalheiroo&theme=onestar&no-frame=true&margin-w=10" />
+</p>
+
 </div>
 
 <div align=center>
@@ -66,10 +71,7 @@
 </div>
 
 </div>
-## Trophies
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=pcavalheiroo&theme=onestar&no-frame=true&margin-w=10" />
-</p>
+
 ---
 
 ## 🌎 Onde me encontrar

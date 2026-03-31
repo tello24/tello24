@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  💻 Estudante de Ciência da Computação no Instituto Mauá de Tecnologia  
+  💻 Estudante de Ciência da Computação no Instituto Mauá de Tecnologia  (IMT)
 </p>
 
 ---

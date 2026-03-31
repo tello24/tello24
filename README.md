@@ -11,7 +11,7 @@
 ---
 
 ## 📍 Sobre mim
-- 🎯 **Objetivo**: Estágio em **TI / Desenvolvimento de Software / Análise de Dados**
+- 🎯 **Objetivo**: Estágio em **TI / Desenvolvimento de Software FullStack / IA Machine Learning / Cybersecurity**
 - 📚 Atualmente cursando **Ciência da Computação** (Conclusão: Dez/2027)
 - ✉️ Contato: **schixcontatox@gmail.com**
 
